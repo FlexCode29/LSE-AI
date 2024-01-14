@@ -35,7 +35,7 @@ We aim at establishing synergies with other labs/research lines within LSE that 
 4. Regularly red-team and look for if there’s a boring explanation for what’s going on, or a flaw in the techniques, what could it be? How could we falsify?
 5. Once we have some handle on what’s going on, try to scale up and be more rigorous - look at many more prompts, use more refined techniques like path patching on bigger state-of-the-art models and causal scrubbing, try to actually reverse engineer the weights, etc.
 
-The authors of the IOI paper have recently published **[Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2304.14997)** (NeurIPS) further ****improving the techniques listed above
+The authors of the IOI paper have recently published **[Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2304.14997)** (NeurIPS) further improving the techniques listed above
 
 ## Timeline
 
@@ -54,7 +54,7 @@ We aim to make LSE a significant player in the interpretability field within thi
 - Stanford partnership: [Federico Bianchi](https://scholar.google.com/citations?user=1okGjb8AAAAJ) (postdoc featured in [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), [Nature Medicine](https://www.nature.com/articles/s41591-023-02504-3)) for a weekly call, and core team researcher [Davide Ghilardi](https://www.linkedin.com/in/davide-ghilardi-9407191a0/)
 - Harvard correspondant: [Valerio Pepe](https://www.linkedin.com/in/valerio-pepe/), Harvard CS, possible core team researcher and link with [Neel Nanda](https://www.linkedin.com/in/neel-nanda-993580151/) (Interpretability team Lead @Deepmind, inventor of the field)
 - Qi4M industry partner: AI fintech company where I authored my [first ML paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4246289), possibly  investing GPU time and partnering for a financial AI research line (possibly interpretability)
-- New OpenAI research grant: $10.000.000 in [Superalignment Fast Grants](https://openai.com/blog/superalignment-fast-grants) ****have been launched by OpenAI for research in: AI interpretability/weak to strong generalisation/scalable oversight. These are specifically for new academic labs entering the field like ours, will apply by Feb 14th with narrower problem.
+- New OpenAI research grant: $10.000.000 in [Superalignment Fast Grants](https://openai.com/blog/superalignment-fast-grants) have been launched by OpenAI for research in: AI interpretability/weak to strong generalisation/scalable oversight. These are specifically for new academic labs entering the field like ours, will apply by Feb 14th with narrower problem.
 
 ### We ask the LSE DSI for the following:
 
