@@ -61,3 +61,4 @@ We aim to make LSE a significant player in the interpretability field within thi
 - space: desks/a room
 - GPUs: access to the T4s on Fabian, and to new clusters when available
 - recognition: hosting our repo on the DSI GitHub
+- support to research efforts: direct DSI staff involvement/help with recruiting and travel support if accepted to conferences
