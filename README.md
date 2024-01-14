@@ -30,7 +30,7 @@ We aim at establishing synergies with other labs/research lines within LSE that 
 ## Methodologies:
 
 1. Identify a behaviour (like Indirect Object Identification) in a model to investigate
-2. Try to **understand the behaviour as a black box. Feed in a lot of inputs with many variations and see how the model’s behaviour changes. What does it take to break the model’s performance? Can we confuse it or trip it up? Form hypotheses about what the model is doing - how *could* a transformer implement an algorithm for this?
+2. Try to understand the behaviour as a black box. Feed in a lot of inputs with many variations and see how the model’s behaviour changes. What does it take to break the model’s performance? Can we confuse it or trip it up? Form hypotheses about what the model is doing - how *could* a transformer implement an algorithm for this?
 3. Run experiments to support/falsify these hypotheses using [transformer lens](https://github.com/neelnanda-io/TransformerLens/). Perform Layer Attribution, Head Attribution,  Decomposing Heads, Attention Analysis. Iterating fast
 4. Regularly red-team and look for if there’s a boring explanation for what’s going on, or a flaw in the techniques, what could it be? How could we falsify?
 5. Once we have some handle on what’s going on, try to scale up and be more rigorous - look at many more prompts, use more refined techniques like path patching on bigger state-of-the-art models and causal scrubbing, try to actually reverse engineer the weights, etc.
@@ -49,7 +49,7 @@ May: redact paper and submit to NeurIPS
 
 ## Support
 
-We aim to make LSE a significant player in the interpretability field within this academic year, and in order to achieve that we are so far expect the following support:
+We aim to make LSE a significant player in the interpretability field within this academic year, and in order to achieve that we so far expect the following support:
 
 - Stanford partnership: [Federico Bianchi](https://scholar.google.com/citations?user=1okGjb8AAAAJ) (postdoc featured in [ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), [ICLR](https://openreview.net/forum?id=KRLUvxh8uaX), [Nature Medicine](https://www.nature.com/articles/s41591-023-02504-3)) for a weekly call, and external researcher [Davide Ghilardi](https://www.linkedin.com/in/davide-ghilardi-9407191a0/)
 - Harvard correspondant: [Valerio Pepe](https://www.linkedin.com/in/valerio-pepe/), Harvard CS, possible external researcher and link with [Neel Nanda](https://www.linkedin.com/in/neel-nanda-993580151/) (Interpretability team Lead @Deepmind, inventor of the field)
